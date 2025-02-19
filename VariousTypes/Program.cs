@@ -19,6 +19,10 @@ namespace VariousTypes
             float xp=0.90f;
             double patience=19.8d;
             Console.WriteLine($"{xp}, {patience}");
+
+            bool jazz = true;
+            bool phonk = false;
+            Console.WriteLine($"{jazz}, or {phonk}");
         }
     }
 }
