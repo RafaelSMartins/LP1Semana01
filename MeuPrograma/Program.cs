@@ -2,6 +2,9 @@
 
 namespace MeuPrograma
 {
+    /// <summary>
+    /// Commentary
+    /// </summary>
     public class Program
     {
         private static void Main(string[] args)
