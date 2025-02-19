@@ -18,7 +18,7 @@ namespace VariousTypes
 
             float xp=0.90f;
             double patience=19.8d;
-            Console.WriteLine(${xp}, {patience});
+            Console.WriteLine($"{xp}, {patience}");
         }
     }
 }
