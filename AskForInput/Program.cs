@@ -8,6 +8,8 @@ namespace AskForInput
         {
             Console.WriteLine("Inserir um número inteiro: ");
             string str = Console.ReadLine();
+
+            int i = int.Parse(str);
             
         }
     }
